@@ -18,4 +18,7 @@ Languages i know:
 * basic knowledge of Pyton
 * I quickly type the text on Engl/Rus/Urk 
 ## Personal super-Mentor
-[Serhiy](https://t.me/sten86srg)
+[Serhiy](https://t.me/sten86srg)  
+````
+print 'hello world'
+````
