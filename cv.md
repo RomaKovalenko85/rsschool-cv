@@ -19,6 +19,7 @@ Languages i know:
 * I quickly type the text on Engl/Rus/Urk 
 ## Personal super-Mentor
 [Serhiy](https://t.me/sten86srg)  
+
 ````
 print 'hello world'
 ````
