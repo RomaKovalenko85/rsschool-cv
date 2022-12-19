@@ -2,12 +2,14 @@ html {
     scroll-behavior: smooth; 
   }
 body {
-    font-family: "Roboto";
-    font-size: 45px;
+    font-family: "cursive";
+    font-size: 25px;
     font-bold:bold;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    color: rgb(82, 25, 25);
+
 
 }
 .fit-picture {
@@ -29,12 +31,14 @@ body {
     justify-content: flex-end;
     align-items: center;
     list-style: none;
+    font-style: italic;
+    
 }
 .nav-link:hover {
     padding: 0 20px;
     list-style: none;
-    color: brown;
-    font-size: 3rem;
+    color: rgb(165, 42, 42);
+    font-size: 2rem;
     transition: .3s;
    
 }
@@ -46,10 +50,18 @@ body {
   .section-item a:hover {
     color: #4b2323;
   }
-  .section{
-
+  .main-container {
+    display: flex;
+    flex-wrap: wrap;
   }
+  
+  .section {
+    width: 50%;
+    }
   .section-title{
-    
+    font-style: italic;
+    color:rgb(138, 34, 179)
   }
+
+
 
