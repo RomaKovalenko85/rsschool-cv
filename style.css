@@ -31,6 +31,8 @@ body {
     justify-content: flex-end;
     align-items: center;
     list-style: none;
+    font-style: italic;
+    
 }
 .nav-link:hover {
     padding: 0 20px;
@@ -55,9 +57,10 @@ body {
   
   .section {
     width: 50%;
-  }
+    }
   .section-title{
-
+    font-style: italic;
+    color:rgb(138, 34, 179)
   }
 
 
